@@ -1,0 +1,3 @@
+ALl of these files were downloaded from https://www.hdfgroup.org, and all except for COPYING came from https://www.hdfgroup.org/ftp/HDF5/examples/files/exbyapi/
+
+The thought is to round trip the reading and writing of these files using the go-hdf5 functionality and ensure that they produce the same output.  There was some suggestion on http://micro.stanford.edu/wiki/Install_HDF5 that the files may be outdated.  The timestamps are from shortly after the release of 1.8.4, and while we're on 1.8.15 as of 7/2015, they should probably still be valid.
